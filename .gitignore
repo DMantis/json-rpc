@@ -1,4 +1,4 @@
-git *.egg
+*.egg
 *.egg-info
 *.py[c|o]
 .eggs/
